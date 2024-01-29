@@ -1,0 +1,41 @@
+const var pgslddmcvk = []!!
+pgslddmcvk[361533.6087] = 866722944!
+pgslddmcvk[7] = 728104750!
+pgslddmcvk[11.5014] = 890649260!
+print(pgslddmcvk)!
+print(pgslddmcvk)!
+pgslddmcvk[69.6591] = 887441295!
+pgslddmcvk[2] = 1016576527!
+pgslddmcvk[590454.7778] = 1814247908!
+pgslddmcvk[3] = 142040589!
+pgslddmcvk[705932.2643] = 1608781629!
+pgslddmcvk[-1] = 1119191609!
+pgslddmcvk[1018789.9668] = 665362128!
+pgslddmcvk[63690.9426] = 993176142!
+pgslddmcvk[2] = 1775540505!
+pgslddmcvk[60.1004] = 1480273526!
+print(pgslddmcvk)!
+print(pgslddmcvk)!
+pgslddmcvk[410101.4371] = 1866297264!
+print(pgslddmcvk)!
+pgslddmcvk[20734.6872] = 1199984200!
+print(pgslddmcvk)!
+pgslddmcvk[0] = 383098095!
+pgslddmcvk[811433.485] = 1045115022!
+pgslddmcvk[930107.8065] = 1607868351!
+pgslddmcvk[3] = 1764418238!
+pgslddmcvk[35.024] = 950331504!
+pgslddmcvk[176541.0602] = 1239981307!
+pgslddmcvk[4] = 2035968184!
+pgslddmcvk[386788.3664] = 756532616!
+pgslddmcvk[848282.9179] = 619187462!
+pgslddmcvk[617118.3362] = 418558900!
+pgslddmcvk[16.509] = 1081006303!
+pgslddmcvk[7] = 2129165195!
+pgslddmcvk[6] = 2086432644!
+pgslddmcvk[15.6822] = 1024443362!
+pgslddmcvk[1020805.2957] = 1815672130!
+pgslddmcvk[6] = 347961115!
+pgslddmcvk[599347.3474] = 1263181604!
+pgslddmcvk[487726.2725] = 853485108!
+print(pgslddmcvk)!

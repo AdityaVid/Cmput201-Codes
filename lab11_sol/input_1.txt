@@ -1,0 +1,11 @@
+insert 2015069777 at 0
+insert 956452278 at 1
+insert 1722439487 at 2
+insert 1859908094 at 1
+insert 1358244584 at 4
+insert 1849719614 at 3
+insert 1444267242 at 5
+insert 1710782639 at 2
+insert 1669166079 at 1
+insert 1898312077 at 2
+print

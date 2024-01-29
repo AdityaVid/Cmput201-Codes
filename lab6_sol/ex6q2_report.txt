@@ -1,0 +1,26 @@
+Ex6Q2 Report: Shell Sort Algorithm
+
+Title: Shell Sort
+Description:
+Shell Sort is an in-place comparison-based sorting algorithm that extends the insertion sort by dividing the array into smaller subarrays and sorting them independently. It starts with a large gap and gradually reduces the gap until the entire array is sorted.
+
+Worst Case Asymptotic Run Time: O(n^2)
+Best Case Asymptotic Run Time: O(n log n) (approximately)
+
+Advantages:
+1. Improved performance compared to simple insertion sort, especially for large datasets.
+2. Stable and adaptive, meaning it can take advantage of the existing order in the data.
+3. In-place sorting algorithm, meaning it doesn't require additional memory for sorting.
+
+Drawbacks:
+1. The exact time complexity depends on the gap sequence used, making it less predictable.
+2. It may not perform as well as more advanced sorting algorithms like merge sort or quicksort in most cases.
+
+When to Choose Shell Sort over Quicksort:
+- Shell Sort can be a good choice when the input data is almost sorted or partially ordered. It is adaptive and performs well in these situations.
+- If you need an in-place sorting algorithm and don't want the memory overhead of quicksort, Shell Sort is a viable option.
+
+When to Choose Shell Sort over Selection Sort:
+- Shell Sort is generally a more efficient choice than Selection Sort for sorting larger datasets. If performance is a concern, Shell Sort is preferred.
+- Selection Sort has a constant runtime regardless of data order, while Shell Sort can adapt to partially ordered data, making it a better choice in such cases.
+
