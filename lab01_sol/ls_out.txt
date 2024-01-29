@@ -1,0 +1,13 @@
+total 13K
+1.0K drwxr-xr-x 2 avaidya1 avaidya1    2 Sep 10 10:25 Desktop
+1.0K drwxr-xr-x 3 avaidya1 avaidya1    3 Sep  8 11:21 Documents
+1.0K drwxr-xr-x 2 avaidya1 avaidya1    2 Sep 10 10:25 Downloads
+1.0K drwxr-xr-x 2 avaidya1 avaidya1    2 Sep 15  2022 Music
+1.0K drwxr-xr-x 2 avaidya1 avaidya1    2 Sep 15  2022 Pictures
+1.0K drwxr-xr-x 2 avaidya1 avaidya1    2 Sep 15  2022 Public
+1.0K drwxrwxr-x 2 avaidya1 avaidya1    6 Sep 20  2022 PythonScripts
+1.0K drwxr-xr-x 2 avaidya1 avaidya1    2 Sep 15  2022 Templates
+1.0K drwxr-xr-x 2 avaidya1 avaidya1    2 Sep 15  2022 Videos
+2.0K -rw------- 1 avaidya1 avaidya1 1.1K Sep 10 10:29 blender.crash.txt
+1.0K lrwxrwxrwx 1 avaidya1 avaidya1   25 Sep 10 09:27 media -> /tmp/.x2go-avaidya1/media
+1.0K -rw------- 1 avaidya1 avaidya1   39 Sep 10 10:22 tutor
